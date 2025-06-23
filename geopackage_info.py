@@ -5,7 +5,7 @@
 # Filename: geopackage_info.py
 # Author: mbegma
 # Create data: 20.06.2025
-# Description: 
+# Description: ArcGIS Pro tools for getting information about *.geopackage files
 #            
 # Copyright: (c) mbegma, 2025
 # History: 
